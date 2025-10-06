@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 4
-description: another project
+title: Nonlinear Warp Dynamics
+description: Analytical models pushing into the high warp amplitude regime.
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
