@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Callum Fairbairn
+description: Postdoc | IAS | Astrophysical Fluid Dynamics
 
 #baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+linkedin: "https://www.linkedin.com/in/callum-fairbairn/"
+#stackoverflow: "#"
+github: "https://github.com/callumf8"
+#researchgate: "#"
+orcid: "https://orcid.org/0000-0002-9285-2184"
+#quora: "#"
+#instagram: "#"
+#facebook: "#"
+#bluesky: "#"
 
 # Markdown
 highlighter: rouge
