@@ -4,21 +4,21 @@ title: Publications
 description: A list of my published articles.
 ---
 
-*   *Shadow-Induced Warps in Protoplanetary Disks*  S Zhang, Z Zhu, CW Fairbairn - The Astrophysical Journal (2025) Submitted.
+*   *Shadow-Induced Warps in Protoplanetary Disks*  S Zhang, Z Zhu, CW Fairbairn - The Astrophysical Journal **(2025)** Submitted.
 
-*   *The Interplay of Parametric and Magnetorotational Instabilities in Oscillatory Shear Flows*  CW Fairbairn, JM Stone - The Astrophysical Journal (2025) (DOI: [10.1093/mnras/staf1399](https://doi.org/10.1093/mnras/staf1399))
+*   *The Interplay of Parametric and Magnetorotational Instabilities in Oscillatory Shear Flows*  CW Fairbairn, JM Stone - The Astrophysical Journal **(2025)** (DOI: [10.1093/mnras/staf1399](https://doi.org/10.1093/mnras/staf1399))
 
-*   *Pushing the limits of eccentricity in planet-disc interactions*  CW Fairbairn, AJ Dittmann - Monthly Notices of the Royal Astronomical Society (2025) (DOI: [10.3847/1538-4357/adf4e1](https://iopscience.iop.org/article/10.3847/1538-4357/adf4e1))
+*   *Pushing the limits of eccentricity in planet-disc interactions*  CW Fairbairn, AJ Dittmann - Monthly Notices of the Royal Astronomical Society **(2025)** (DOI: [10.3847/1538-4357/adf4e1](https://iopscience.iop.org/article/10.3847/1538-4357/adf4e1))
 
-*   *Linear bending wave propagation in laminar and turbulent discs*  CW Fairbairn - The Astrophysical Journal (2025) (DOI: [10.3847/1538-4357/ad9c73](https://doi.org/10.3847/1538-4357/ad9c73))
+*   *Linear bending wave propagation in laminar and turbulent discs*  CW Fairbairn - The Astrophysical Journal **(2025)** (DOI: [10.3847/1538-4357/ad9c73](https://doi.org/10.3847/1538-4357/ad9c73))
 
-*   *Eccentric planet-disc interactions: orbital migration and eccentricity evolution* CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2025) (DOI: [10.1093/mnras/staf117](https://doi.org/10.1093/mnras/staf117))
+*   *Eccentric planet-disc interactions: orbital migration and eccentricity evolution* CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society **(2025)** (DOI: [10.1093/mnras/staf117](https://doi.org/10.1093/mnras/staf117))
 
-*   *Parametric instability in warped astrophysical discs: growth, saturation and feedback* CW Fairbairn, GI Ogilvie - Monthly Notices of the Royal Astronomical Society (2023) (DOI: [10.1093/mnras/stad211](https://doi.org/10.1093/mnras/stad211))
+*   *Parametric instability in warped astrophysical discs: growth, saturation and feedback* CW Fairbairn, GI Ogilvie - Monthly Notices of the Royal Astronomical Society **(2023)** (DOI: [10.1093/mnras/stad211](https://doi.org/10.1093/mnras/stad211))
 
-*   *Density waves in protoplanetary discs excited by eccentric planets: linear theory* CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2022) (DOI: [10.1093/mnras/stac2802](https://doi.org/10.1093/mnras/stac2802))
+*   *Density waves in protoplanetary discs excited by eccentric planets: linear theory* CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society **(2022)** (DOI: [10.1093/mnras/stac2802](https://doi.org/10.1093/mnras/stac2802))
 
-*   *Nonlinear resonant torus oscillations as a model of Keplerian disc warp dynamics* CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society (2021) (DOI: [10.1093/mnras/stab2717](https://doi.org/10.1093/mnras/stab2717))
+*   *Nonlinear resonant torus oscillations as a model of Keplerian disc warp dynamics* CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society **(2021)** (DOI: [10.1093/mnras/stab2717](https://doi.org/10.1093/mnras/stab2717))
 
 *   *Nonlinear dynamics of hydrodynamic tori as a model of oscillations and bending waves in astrophysical discs* CW Fairbairn, GI Ogilvie – Monthly Notices of the Royal Astronomical Society **(2021)** (DOI: [10.1093/mnras/stab1554](https://doi.org/10.1093/mnras/stab1554))
 
