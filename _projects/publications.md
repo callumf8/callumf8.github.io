@@ -6,6 +6,10 @@ description: A list of my published articles.
 
 *   *Shadow-Induced Warps in Protoplanetary Disks*  S Zhang, Z Zhu, CW Fairbairn - The Astrophysical Journal (2025) Submitted.
 
+*   *The Interplay of Parametric and Magnetorotational Instabilities in Oscillatory Shear Flows*  CW Fairbairn, JM Stone - The Astrophysical Journal (2025) (DOI: [10.1093/mnras/staf1399](https://doi.org/10.1093/mnras/staf1399))
+
+*   *Pushing the limits of eccentricity in planet-disc interactions*  CW Fairbairn, AJ Dittmann - Monthly Notices of the Royal Astronomical Society (2025) (DOI: [10.3847/1538-4357/adf4e1](https://iopscience.iop.org/article/10.3847/1538-4357/adf4e1))
+
 *   *Linear bending wave propagation in laminar and turbulent discs*  CW Fairbairn - The Astrophysical Journal (2025) (DOI: [10.3847/1538-4357/ad9c73](https://doi.org/10.3847/1538-4357/ad9c73))
 
 *   *Eccentric planet-disc interactions: orbital migration and eccentricity evolution* CW Fairbairn, RR Rafikov - Monthly Notices of the Royal Astronomical Society (2025) (DOI: [10.1093/mnras/staf117](https://doi.org/10.1093/mnras/staf117))
