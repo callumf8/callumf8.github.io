@@ -6,7 +6,7 @@ description: A list of my published articles.
 
 *   *Indirect forces in disc-planet interaction*  RR Rafikov, NP Cimerman, CW Fairbairn, AJ Dittmann - Monthly Notices of the Royal Astronomical Society **(2025)** Submitted.
 
-*   *Shadow-Induced Warps in Protoplanetary Disks*  S Zhang, Z Zhu, CW Fairbairn - The Astrophysical Journal **(2025)** Submitted.
+*   *Shadow-Induced Warps in Protoplanetary Disks*  S Zhang, Z Zhu, CW Fairbairn - The Astrophysical Journal **(2025)** Accepted, In Press.
 
 *   *The Interplay of Parametric and Magnetorotational Instabilities in Oscillatory Shear Flows*  CW Fairbairn, JM Stone - The Astrophysical Journal **(2025)** (DOI: [10.1093/mnras/staf1399](https://doi.org/10.1093/mnras/staf1399))
 
