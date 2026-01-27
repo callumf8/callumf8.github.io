@@ -9,4 +9,4 @@ Our own crossing of the Washington bridge made its namesake's revolutionary Chri
 
 Putting these butterfly effect musings to one side, we warmed up with some pepperoni pizza before grabbing a warm cuppa in Lambertville. I'm sure Washington's troops would have been very jealous.
 
-![Kayaking on the Delaware]({{ site.baseurl }}/assets/images/blog/2025-12-14-delaware_cross.jpeg)
+![Kayaking on the Delaware]({{ site.baseurl }}/assets/images/blog/2025/2025-12-14-delaware_cross.jpeg)
